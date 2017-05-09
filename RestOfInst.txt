@@ -1,0 +1,7 @@
+branch nc,@0000
+call @0001
+ret
+push @0000
+pop
+nop
+halt

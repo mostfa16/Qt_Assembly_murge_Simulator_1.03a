@@ -1,0 +1,5 @@
+LOAD R02,#65
+LDR R03,@0002
+ldr R00,@0001
+load R01,#32
+mov r01,r02

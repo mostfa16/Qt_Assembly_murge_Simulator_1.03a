@@ -1,0 +1,9 @@
+load R01,#5
+ldr R02,#53
+load R03,#15
+ldr R04,#23
+mul R01,#3
+mul R02,@0002
+mul R02,R01
+mul R02,R01,r03
+mul R01,R04,#10

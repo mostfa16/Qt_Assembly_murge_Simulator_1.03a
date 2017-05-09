@@ -1,0 +1,5 @@
+LDR R02,#5
+LDR R01,#4
+LDR R03,#2
+rsb R04,R02,R03
+rsb R05,R02,#22

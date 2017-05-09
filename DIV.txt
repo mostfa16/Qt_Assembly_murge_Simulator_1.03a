@@ -1,0 +1,7 @@
+LOAD R01,#5
+LDR R02,#53
+DIV R01,#3
+DIV R02,@0002
+div R01,r02
+div R03,r02,r01
+div R04,r03,#2

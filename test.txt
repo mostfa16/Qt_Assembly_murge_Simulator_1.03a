@@ -1,0 +1,6 @@
+ldr R00,#10
+ldr r01,#12
+add r02,R00,R01
+mul r02,#2
+div R03,R02,#4
+sub R04,R02,R03
