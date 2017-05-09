@@ -7,6 +7,6 @@ int main(int argc, char *argv[])
     MainWindow w;
 
     w.show();
-    w.setWindowTitle("Assembly Murge Smulator 1.03");
+    w.setWindowTitle("Assembly Murge Simulator 1.03");
     return a.exec();
 }
